@@ -1,0 +1,19 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: Red;
+    display: inline-block;
+    outline-style: solid;
+    outline-width: 1;
+    outline-color: black;
+}
+
+.white {
+    background-color: White;
+}
+
+button {
+    display: inline-block;
+    margin-left: 120;
+    /*margin-bottom: -13;*/
+}
